@@ -1,4 +1,5 @@
 # Heterogeneous Multi-Robot Soccer Framework (ROS 2)
+![image](https://github.com/user-attachments/assets/806d6eb5-237f-4fae-aac8-5a283b942cc4)
 
 ## Project Description
 This repository presents a heterogeneous multi-robot soccer system developed using ROS 2. The system consists of two autonomous mobile robots operating in a football-like environment with two goals and a single ball. Each robot independently perceives the environment, plans its motion, and executes control actions in real time.
